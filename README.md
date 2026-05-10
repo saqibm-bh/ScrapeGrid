@@ -10,20 +10,6 @@ Scraping at scale gets hard fast. Sites block repeated requests, workers fail, q
 
 ScrapeGrid simulates all of that in your browser.
 
-## Live Demo / Screenshots
-
-Add 3-4 screenshots here: Race tab, Nodes tab, Architecture tab, Analytics tab.
-
-Add images in `/assets/screenshots/` and link them here.
-
-Example:
-
-```md
-![Race tab](assets/screenshots/race.png)
-![Nodes tab](assets/screenshots/nodes.png)
-![Architecture tab](assets/screenshots/architecture.png)
-![Analytics tab](assets/screenshots/analytics.png)
-```
 
 ## What You Will See When You Run It
 
